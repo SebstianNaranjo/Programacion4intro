@@ -1,12 +1,26 @@
 # React + Vite
+Características
+Contador en tiempo real: Muestra el valor actualizado instantáneamente con cada interacción.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Tres funcionalidades principales:
 
-Currently, two official plugins are available:
+Sumar: Incrementa el valor en 1.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Restar: Decrementa el valor en 1.
 
-## Expanding the ESLint configuration
+Reiniciar: Vuelve el contador a cero.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Tecnologías modernas: Desarrollado utilizando Vite, lo que garantiza un entorno de desarrollo rápido y eficiente.
+¿Cómo usarlo?
+Para empezar, simplemente clona el repositorio, instala las dependencias y ejecuta el servidor de desarrollo.
+# Clona el repositorio
+git clone <https://github.com/SebstianNaranjo/Programacion4intro.git>
+
+# Navega a la carpeta del proyecto
+cd <Programacion4intro>
+
+# Instala las dependencias
+npm install
+
+# Inicia el servidor de desarrollo
+npm run dev
